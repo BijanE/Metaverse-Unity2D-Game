@@ -3,10 +3,10 @@
 
 ## Oyun Senaryosu
 2077 yılında oyun bağımlısı olan genç çocuk her gece olduğu gibi yine bir gece vakti VR gözlüğünü takmış ardından oyna tuşuna tam bastığı anda oluşan bir aksilik sonucunda bir anda kendini Metaverse evreninde buldu. Sonrasında bu sanal dünyadaki acemi kişi kendisinin süreç boyunca karşılaşacağı zorluklar ile eğitip bu sanal dünyadan sağ çıkmaya çalışacaktır...
-![metaversev1](https://user-images.githubusercontent.com/56190823/143684300-797df930-07a9-44c1-bbaf-34cd4e1838fe.jpg)
-![metaversev3](https://user-images.githubusercontent.com/56190823/143684290-bb1b2c1f-4eab-4d53-bb76-9151bf6be862.jpg)
-![metaversev4](https://user-images.githubusercontent.com/56190823/143684294-88b68dd6-da9c-454a-9a05-b06b5faecc4b.jpg)
-![metaversev2](https://user-images.githubusercontent.com/56190823/143684295-8f5aaefe-5fb2-4189-b797-5996e75a2a1b.jpg)
+![metaversev1](https://user-images.githubusercontent.com/51748845/143772491-5605fffe-052a-4c4e-ad33-0daaf2dda767.jpg)
+![metaversev3](https://user-images.githubusercontent.com/51748845/143772493-af660d44-319e-4857-a841-efde7ac9f38d.jpg)
+![metaversev4](https://user-images.githubusercontent.com/51748845/143772495-9a3b8f8b-6182-4118-a2e7-5a648d6cff78.jpg)
+![metaversev2](https://user-images.githubusercontent.com/51748845/143772497-d1c929be-3df0-4e91-a646-6fcbcf3e792a.jpg)
 ## Tanıtım
 ►Metaverse, 2 boyutlu platform oyunudur.
 - Ana karakterimiz yani Meta (Player) 'nın bölüm sonlarındaki kupaya (bitişe) ulaşmasıyla bölümleri geçer. 
@@ -31,6 +31,8 @@
 ## Projeyi Nasıl Çalıştırırım
 - Güncel bir masaüstü web tarayıcısı ile rahatlıkla oyunu oynayıp, eğlenceli zamanlar harcayabilirsin.
 - https://hurel9.itch.io/hurel adresine gidip istediğiniz zaman oynayabilirsiniz yada dilerseniz github üzerinden oyun için tüm gerekli dosyalarıyla birlikte indirip, unity üzerinden oynayabilirsiniz.
+- 
+![metaversev5](https://user-images.githubusercontent.com/51748845/143772500-c7ad336c-7a56-428b-9c2f-1158a15f34b8.jpg)
 
 
 
