@@ -26,6 +26,11 @@
 - D  tuşu karakteri sağa "►" hareket ettirir.
 - Space tuşu karakteri zıplatır. (Zıplarken dikkatli ol!)
 - Fare sol tık karakterin ateş etmesini sağlar.
+- Esc Tusuyla oyun durur ve MolaMenusune açılır;
+   - Bu pencereden devam et veya tekrar esc tusuna basarak cıkıs yapabilirsiniz. 
+   - Menu ile ana menuye geri dönebilirsiniz. 
+   - Exit ile ana menuye geri donebilirsiniz. 
+   - Save tusuna basarak kaldıgınız yeri save ederek ana menuye dondugunuzde devam et tusuna basarak oyunda save aldıgınız son yerden devam etmis olursunuz.
 
 
 ## Projeyi Nasıl Çalıştırırım
@@ -38,10 +43,10 @@
 
 ## Oyun Oluştururken
 - C#, Unity gibi teknolojiler kullanıldı.
-- Online PNG toolları, Ücretsiz Sprite Sheet paketleri kullanıldı. (UnityAssetStore)
-- Ücretsiz .mp3 ve Asset setleri kullanılarak karakterler ve animasyonlar yaratıldı.(UnityAssetStore)
+- Online PNG toolları, Ücretsiz Sprite Sheet paketleri kullanıldı. [UnityAssetStore](https://assetstore.unity.com/packages/2d/characters/pixeladventure-1-155360)
+- Ücretsiz .mp3 ve Asset setleri kullanılarak karakterler ve animasyonlar yaratıldı. [UnityAssetStore](https://assetstore.unity.com/packages/audio/sound-fx/free-casual-game-sfxpack-54116) [AnaMenu](https://www.youtube.com/watch?v=L_OYo2RS8iU&list=PLwJjxqYuirCLkq42mGw4XKGQlpZSfxsYd)
 
 ## Kisisel Bilgiler ve Amaç
 - Uğur Can Akçay & Bijan Etesam tarafından yapılmıştır. (@UgurCanAkcay @BijanE)
 - Uğur Can Akçay 18360859017, Bijan Etesam 19360859051 okul numaraları.
-- Bu oyun Bilgisayar Mühendisliği BLM0364 Oyun Programlama Dersi vizesi kapsamında geliştirilmiştir.
+- Bu oyun Bilgisayar Mühendisliği BLM0364 Oyun Programlama Dersi vizesi ve finali kapsamında geliştirilmiştir.
