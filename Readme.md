@@ -26,7 +26,7 @@
 - D  tuşu karakteri sağa "►" hareket ettirir.
 - Space tuşu karakteri zıplatır. (Zıplarken dikkatli ol!)
 - Fare sol tık karakterin ateş etmesini sağlar.
-- Esc Tusuyla oyun durur ve MolaMenusune açılır;
+- Esc Tusuyla oyun durur ve MolaMenusune açılır; (oyunu durdurunca iki defa esc ye basınız.)
    - Bu pencereden devam et veya tekrar esc tusuna basarak cıkıs yapabilirsiniz. 
    - Menu ile ana menuye geri dönebilirsiniz. 
    - Exit ile ana menuye geri donebilirsiniz. 
